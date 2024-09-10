@@ -11,4 +11,16 @@ For example, if the input is:
 The output should be:
 {'odd': [3, 5], 'even': [2, 4, 6]}
 '''
+result = {'odd' : [], 'even' : []}
+status = True
+while status:
+    item = int(input())
+    if (item == 0):
+        status = False
+    else:
+        if (item % 2 == 0):
+            result['even'].append(item)
+        else:
+            result['odd'].append(item)
+print(result)
 
