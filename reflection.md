@@ -1,7 +1,7 @@
 # Reflection
 
 Student Name:  Presley Zhang
-Sudent Email:  presley.zhang@gmail.com
+Sudent Email:  pszhang@syr.edu
 
 ## Instructions
 
